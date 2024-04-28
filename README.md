@@ -7,3 +7,9 @@ DATA VISUALISATION Project: COVID-19 DASHBOARD
 * To access the dashboard go on this link(copy this and paste on your browser) : https://public.tableau.com/views/DataVizuprojectfinallast/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 * Foe better user experience shift to full screen mode
+
+
+Steps to Run on your pC:
+* First download the repo
+* Then download tableu software on you pc.
+* Then open .twb file on your tableu.
